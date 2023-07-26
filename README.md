@@ -45,7 +45,7 @@ The code is developed under the following configurations.
    sh download_checkpoint.sh
    ```
 
-3. This repo includes the evaluation section only, refer to the ```DemoSegmenter.ipynb" notebook for all the steps and changes from the original repo.
+3. This repo includes the evaluation section only, refer to the ```DemoSegmenter.ipynb``` notebook for all the steps and changes from the original repo.
 
 
 ## Note, if needed:
